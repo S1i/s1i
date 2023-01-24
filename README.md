@@ -1,4 +1,4 @@
-<img src="https://github-widgetbox.vercel.app/api/profile?username=gh1l&data=followers,repositories,stars,commits&theme=mountain"/>
+<img src="https://github-widgetbox.vercel.app/api/profile?username=thirstily&data=followers,repositories,stars,commits&theme=mountain"/>
 
 - [ARMA RP](https://discord.gg/armarp) ***(FiveM Semi-RP/Fragging server)***
 - [ARMA Support](https://discord.gg/mg5UcRkXHP) ***(Ticket bot for the server above)***
@@ -10,9 +10,9 @@
 <details>
   <summary><b>GitHub Stats</b></summary>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=gh1l&count_private=true&title_color=fdfdfd&icon_color=f78166&text_color=fdfdfd&bg_color=0d1117&show_icons=true&hide_title=true&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thirstily&count_private=true&title_color=fdfdfd&icon_color=f78166&text_color=fdfdfd&bg_color=0d1117&show_icons=true&hide_title=true&include_all_commits=true"/>
   <!-- <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh1l&title_color=fdfdfd&icon_color=f78166&text_color=fdfdfd&bg_color=0d1117&langs_count=8&layout=compact"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirstily&title_color=fdfdfd&icon_color=f78166&text_color=fdfdfd&bg_color=0d1117&langs_count=8&layout=compact"/> -->
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gh1l&border_radius=6&theme=dark&background=0D1117"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thirstily&border_radius=6&theme=dark&background=0D1117"/>
 </details>
